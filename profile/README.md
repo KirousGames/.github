@@ -2,4 +2,4 @@
 
 **FOSTERING YOUR CREATIVITY.**
 
-![](Kirous-Games-Cover.png)
+![](https://raw.githubusercontent.com/KirousGames/.github/master/profile/Kirous-Games-Cover.png)
