@@ -15,3 +15,7 @@ We're building our games with the Unity game engine. To support our games, we ha
 ### 📯 How to get involved
 
 We have an open [Discord community](https://discord.gg/DyYE8Qq) that's focused on our game development projects. If you're interested in our games, feel free to join and get involved. See you there! 👋
+
+### 📌 Important notice
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
